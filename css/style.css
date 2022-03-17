@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.lobster
+{
+    font-family: 'Lobster', cursive;
+}
+.open-sans
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
